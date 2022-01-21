@@ -33,4 +33,4 @@ zamujący dokładnie
 
 Użyj `print` w Pythonie aby wyświetlić coś w konsoli
 
-![Ten kot nie istnieje](pobrane.jpg)
+![Ten kot nie istnieje](pobrane.jpeg)
