@@ -1,5 +1,5 @@
 from unittest import result
-# test Github Action
+# test Github Action nr 2
 
 def szescian(liczba):
     liczba = liczba ** 3
